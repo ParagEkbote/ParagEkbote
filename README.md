@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😊, I'm Parag</h1>
-<h3 align="center">A passionate person currently igniting my journey towards creating a substantial impact within the AI community.</h3>
+<h3 align="center">A passionate person currently igniting my journey towards creating a substantial impact within the AI community.I am actively seeking work for hands-on projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkknight-0987654356789&label=Profile%20views&color=0e75b6&style=flat" alt="darkknight-0987654356789" /> </p>
 
