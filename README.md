@@ -1,25 +1,53 @@
-<h1 align="center">Hi 😊, I'm Parag</h1>
-<h3 align="center">A passionate person currently igniting my journey towards creating a substantial impact within the AI community.I am actively seeking work for hands-on projects. </h3>
+# 👋 Hello, I'm Parag.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkknight-0987654356789&label=Profile%20views&color=0e75b6&style=flat" alt="darkknight-0987654356789" /> </p>
+![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-brightgreen)
+![Undergraduate](https://img.shields.io/badge/Status-Undergraduate-blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkknight-0987654356789" alt="darkknight-0987654356789" /></a> </p>
+## 🤖 About Me
 
-- 🌱 I’m currently learning **C, C++**
+I'm an undergraduate student passionate about Artificial Intelligence and its potential to change the world. Currently pursuing my degree in AI & Data Science at DPU, I'm on a journey to explore the fascinating world of AI and contribute to its advancement.
 
-- 💬 Ask me about **anything in the context of AI Ethics.**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **paragekbote23@gmail.com**
+Here are some technologies I work with:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@paragekbote2099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@paragekbote2099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parag ekbote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag ekbote" height="30" width="40" /></a>
-</p>
+- **Programming Languages:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+- **AI/ML Frameworks:**
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkknight-0987654356789&show_icons=true&locale=en" alt="darkknight-0987654356789" /></p>
+- **Version Control:**
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkknight-0987654356789&" alt="darkknight-0987654356789" /></p>
+## 💼 Work Experience
+
+### [GreenPepper] - AI  Research Intern
+*[Feb 2024] - [Present]*
+
+-  Interpret and derive insights from research papers, business reports, and scholarly articles to develop research reports tailored to GenAI usecases.
+-  Collaborate with other interns to examine insights within the AI community, to gain a comprehensive understanding of emerging trends and best practices. 
+  
+
+
+## 🎓 Education
+
+**[DPU]**  
+*Bachelor of Technology in **[AI and Data Science]**  
+Expected Graduation: [2027]
+
+## 📫 Let's Connect!
+
+- LinkedIn: [www.linkedin.com/in/parag-ekbote]
+- Email: [paragekbote23@gmail.com]
+
+Feel free to reach out if you want to collaborate on AI projects or just chat about the latest developments in the field!
+
+---
+
+*"The development of full artificial intelligence could spell the end of the human race." - Stephen Hawking*
+
+*But let's work on the good parts! 😉*
