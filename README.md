@@ -25,7 +25,7 @@ Here are some technologies I work with:
 
 ## 💼 Work Experience
 
-### [GreenPepper] - AI  Research Intern
+### GreenPepper - AI  Research Intern
 *[Feb 2024] - [Present]*
 
 -  Interpret and derive insights from research papers, business reports, and scholarly articles to develop research reports tailored to GenAI usecases.
@@ -35,9 +35,9 @@ Here are some technologies I work with:
 
 ## 🎓 Education
 
-**[DPU]**  
-*Bachelor of Technology in **[AI and Data Science]**  
-Expected Graduation: [2027]
+**DPU**  
+*Bachelor of Technology in **AI and Data Science**  
+Expected Graduation:2027
 
 ## 📫 Let's Connect!
 
