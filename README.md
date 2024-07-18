@@ -26,7 +26,7 @@ Here are some technologies I work with:
 ## 💼 Work Experience
 
 ### GreenPepper - AI  Research Intern
-*[Feb 2024] - [Present]*
+*Feb 2024 - Present*
 
 -  Interpret and derive insights from research papers, business reports, and scholarly articles to develop research reports tailored to GenAI usecases.
 -  Collaborate with other interns to examine insights within the AI community, to gain a comprehensive understanding of emerging trends and best practices. 
