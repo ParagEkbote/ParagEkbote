@@ -51,4 +51,4 @@ Feel free to reach out if you want to collaborate on AI projects or just chat ab
 
 *"The development of full artificial intelligence could spell the end of the human race." - Stephen Hawking*
 
-*But let's work on the good parts! 😉*
+But let's work on the good parts! 😉
