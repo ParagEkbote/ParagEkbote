@@ -41,7 +41,10 @@ Expected Graduation:2027
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [www.linkedin.com/in/parag-ekbote]
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="parag-ekbote" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/parag-ekbote?trk=profile-badge">Parag Ekbote</a></div>
+
+
+
 - Email: [paragekbote23@gmail.com]
 
 Feel free to reach out if you want to collaborate on AI projects or just chat about the latest developments in the field!
