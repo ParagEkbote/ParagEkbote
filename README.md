@@ -43,7 +43,6 @@ Expected Graduation:2027
 
 [Parag Ekbote](https://in.linkedin.com/in/parag-ekbote?trk=profile-badge)
 
-- Email: [paragekbote23@gmail.com]
 
 Feel free to reach out if you want to collaborate on AI projects or just chat about the latest developments in the field!
 
