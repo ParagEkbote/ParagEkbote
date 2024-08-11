@@ -36,7 +36,7 @@ Here are some technologies I work with:
 ## 🎓 Education
 
 **DPU**  
-Bachelor of Technology in **AI and Data Science**  
+B.Tech in **AI and Data Science**  
 Expected Graduation:2027
 
 ## 📫 Let's Connect!
