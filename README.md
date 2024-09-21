@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Parag.
 
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-brightgreen)
-![Undergraduate](https://img.shields.io/badge/Status-Undergraduate-blue)
+
+![Undergraduate](https://img.shields.io/badge/Status-Undergraduate-green)
 
 ## 🤖 About Me
 
