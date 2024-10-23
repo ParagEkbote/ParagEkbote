@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Parag.
 
-
-![Undergraduate](https://img.shields.io/badge/Status-Undergraduate-green)
-
 ## 🤖 About Me
 
 I'm an undergraduate student passionate about Artificial Intelligence and its potential to change the world. Currently pursuing my degree in AI & Data Science at DPU, I'm on a journey to explore the fascinating world of AI and contribute to its advancement.
