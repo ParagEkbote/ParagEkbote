@@ -1,34 +1,65 @@
-# 👋 Hello, I'm Parag.
+# Welcome to My GitHub 🚀
 
-I'm an undergraduate student passionate about Artificial Intelligence and its potential to change the world. Currently pursuing my degree in AI & Data Science at DPU, I'm on a journey to explore the fascinating world of AI and contribute to its advancement.
-
-
-
-## 💼 Work Experience
-
-### GreenPepper - AI  Research Intern
-*Feb 2024 - Present*
-
--  Interpret and derive insights from research papers, business reports, and scholarly articles to develop research reports tailored to GenAI usecases.
--  Collaborate with other interns to examine insights within the AI community, to gain a comprehensive understanding of emerging trends and best practices. 
-  
-
-
-## 🎓 Education
-
-**DPU**  
-B.Tech in **AI and Data Science**  
-
-
-## 📫 Let's Connect!
-
-[Parag Ekbote](https://in.linkedin.com/in/parag-ekbote?trk=profile-badge)
-
-
-Feel free to reach out if you want to collaborate on AI projects or just chat about the latest developments in the field!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&center=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Builder+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
 
 ---
 
-*"The development of full artificial intelligence could spell the end of the human race." - Stephen Hawking*
+### 📬 Connect with Me
+- **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models insights to the Hugging Face community.
+- **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Connect and follow for updates on my journey!
 
-But let's work on the good parts! 😉
+---
+
+###  Open-Source Contributions
+
+#### ✅ Merged Pull Requests
+Here are some of my recent contributions to open-source projects:
+- **Project Name #1** - [Merged PR Link](https://github.com/project/repo/pull/1)
+  - **Description**
+- **Project Name #2** - [Merged PR Link](https://github.com/project/repo/pull/2)
+  - **Description**
+  
+
+
+#### 🛠️ Ongoing Pull Requests
+I'm actively working on these PRs in various repositories:
+- **Project Name #3** - [PR Link](https://github.com/project/repo/pull/3)
+  - **Description**
+
+
+
+
+---
+
+### 🔥 About Me
+> An passionate contributor to open-source projects, constantly exploring new advancements in machine learning, deep learning, and AI model development. I'm dedicated to sharing knowledge, building community-driven projects, and expanding the horizons of technology.
+
+---
+
+### ⚙️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD43B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <!-- Add more badges as relevant to your stack -->
+</p>
+
+
+
+### 🌱 Current Focus
+I'm currently focused on:
+- Improving the quality and performance of AI and ML models.
+- Contributing to open-source repositories that support the AI ecosystem.
+- Engaging with the community to share insights and drive innovation.
+
+Feel free to reach out to collaborate, discuss ideas, or just say hello!
+
+---
+
+<!-- Stylish Fonts for Headers -->
+<style>
+  h1 {
+    font-family: 'Pacifico', cursive;
+  }
+</style>
+
