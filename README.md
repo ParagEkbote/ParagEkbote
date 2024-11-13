@@ -1,6 +1,6 @@
 # Welcome to My GitHub 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&center=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Builder+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&center=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Building+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
 
 ---
 
