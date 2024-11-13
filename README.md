@@ -56,10 +56,4 @@ Feel free to reach out to collaborate, discuss ideas, or just say hello!
 
 ---
 
-<!-- Stylish Fonts for Headers -->
-<style>
-  h1 {
-    font-family: 'Pacifico', cursive;
-  }
-</style>
 
