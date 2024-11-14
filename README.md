@@ -53,9 +53,9 @@ I'm actively working on these PRs:
 
 ### ⚙️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" alt="Jupyter Notebook style="margin: 10px;"/>
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000">
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>
    
  
