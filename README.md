@@ -16,7 +16,8 @@
 
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
-- **Project Name #1** - [Merged PR Link](https://github.com/project/repo/pull/1)
+- **Project Name #1** - [Diffuser Notebooks for Community Scripts](https://github.com/huggingface/diffusers/pull/9905)
+                        [Diffuser Notebooks for Community Scripts](https://github.com/huggingface/notebooks/pull/525)
   - **Description**
 - **Project Name #2** - [Merged PR Link](https://github.com/project/repo/pull/2)
   - **Description**
@@ -25,7 +26,7 @@ Here are some of my recent contributions to open-source projects:
 
 #### 🛠️ Ongoing Pull Requests
 I'm actively working on these PRs:
-- **Project Name #3** - [PR Link](https://github.com/linkedin/Liger-Kernel/pull/327)
+- **Project Name #3** - [Python Autodoc using Liger](https://github.com/linkedin/Liger-Kernel/pull/327)
   - **Description** Creation of Python Autodoc for Liger Kernel Repository using Sphinx.
 
 
