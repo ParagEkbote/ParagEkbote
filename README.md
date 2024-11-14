@@ -76,6 +76,7 @@ AI Research Intern
 - Contributing to open-source repositories that support the ML and NLP ecosystem.
 - Engaging with the community to share insights and drive innovation.
 
-Feel free to reach out to collaborate, discuss ideas, or just say hello!
+
+Feel free to reach out to collaborate, discuss ideas, or just say hello ☺️
 
 ---
