@@ -59,7 +59,8 @@ I'm actively working on these PRs:
 
 AI Research Intern
 
-<img src="https://www.jpg.to/results/6976d6ee20d24a0aaa743a989c88d75f/?lang=en" />
+<img src="![greenpepper_consulting_india_private_limited_logo](https://github.com/user-attachments/assets/2103bc32-f548-45ae-972e-11aca1c681e9)
+" />
 
 
 • 𝗔𝗻𝗮𝗹𝘆𝘇𝗲𝗱 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗽𝗮𝗽𝗲𝗿𝘀, 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗿𝗲𝗽𝗼𝗿𝘁𝘀, 𝗮𝗻𝗱 𝘀𝗰𝗵𝗼𝗹𝗮𝗿𝗹𝘆 𝗮𝗿𝘁𝗶𝗰𝗹𝗲𝘀 𝘁𝗼 𝗲𝘅𝘁𝗿𝗮𝗰𝘁 𝘃𝗮𝗹𝘂𝗮𝗯𝗹𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀.
