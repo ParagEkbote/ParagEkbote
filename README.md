@@ -1,6 +1,6 @@
 # Welcome to My GitHub 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&center=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Building+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&vCenter=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Building+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
 
 
 ---
@@ -62,7 +62,6 @@ AI Research Intern
 ![greenpepper_consulting_india_private_limited_logo](https://github.com/user-attachments/assets/2103bc32-f548-45ae-972e-11aca1c681e9)
 
 
-
 • 𝗔𝗻𝗮𝗹𝘆𝘇𝗲𝗱 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗽𝗮𝗽𝗲𝗿𝘀, 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗿𝗲𝗽𝗼𝗿𝘁𝘀, 𝗮𝗻𝗱 𝘀𝗰𝗵𝗼𝗹𝗮𝗿𝗹𝘆 𝗮𝗿𝘁𝗶𝗰𝗹𝗲𝘀 𝘁𝗼 𝗲𝘅𝘁𝗿𝗮𝗰𝘁 𝘃𝗮𝗹𝘂𝗮𝗯𝗹𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀.
 
 • 𝗔𝘂𝘁𝗵𝗼𝗿𝗲𝗱 𝗼𝘃𝗲𝗿 𝗳𝗶𝘃𝗲 𝗻𝗮𝗿𝗿𝗮𝘁𝗶𝘃𝗲-𝘀𝘁𝘆𝗹𝗲 𝗿𝗲𝗽𝗼𝗿𝘁𝘀, 𝗽𝗿𝗼𝘃𝗶𝗱𝗶𝗻𝗴 𝗶𝗻-𝗱𝗲𝗽𝘁𝗵 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗹𝗮𝘁𝗲𝘀𝘁 𝘁𝗿𝗲𝗻𝗱s 𝗶𝗻 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜.
@@ -80,5 +79,3 @@ AI Research Intern
 Feel free to reach out to collaborate, discuss ideas, or just say hello!
 
 ---
-
-
