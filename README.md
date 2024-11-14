@@ -8,7 +8,7 @@
 
 ### 📬 Connect with Me
 - **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models insights to the Hugging Face community.
-- **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Connect and follow for updates on my journey!
+- **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Let's Connect and follow for updates on my journey!
 
 ---
 
@@ -16,12 +16,14 @@
 
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
-- **Project Name #1** - [Diffuser Notebooks for Community Scripts](https://github.com/huggingface/diffusers/pull/9905)
-  [Diffuser Notebooks for Community Scripts](https://github.com/huggingface/notebooks/pull/525)
-  
+- **PR #1 & PR #2** - [Diffuser Notebooks for Community Scripts #1](https://github.com/huggingface/diffusers/pull/9905)
+  [Diffuser Notebooks for Community Scripts #2](https://github.com/huggingface/notebooks/pull/525)
   - **Description**
-- **Project Name #2** - [Merged PR Link](https://github.com/project/repo/pull/2)
+  - Created 3 new Jupyter notebooks for community scripts in the HF diffusers Library.
+
+- **PR #3** - [Deprecate Support for Dolly,Nous-Hermes,Redpajama-Incite,Vicuna and H2O Danube ](https://github.com/Lightning-AI/litgpt/pull/1821)
   - **Description**
+  - By request, removed support for 5 LLMs to declutter the litgpt Library.
   
 
 
