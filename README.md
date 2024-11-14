@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&center=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Building+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
 
 
-### Work Experience
 ---
 
 ### 📬 Connect with Me
@@ -12,7 +11,6 @@
 
 ---
 
-###  Open-Source Contributions
 
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
@@ -41,13 +39,10 @@ I'm actively working on these PRs:
 
    **Description** Creation of Python Autodoc for Liger Kernel Repository using Sphinx.
 
-
-
-
 ---
 
 ### 🔥 About Me
-> An passionate contributor to open-source projects, constantly exploring new advancements in machine learning, deep learning, and AI model development. I'm dedicated to sharing knowledge, building community-driven projects, and expanding the horizons of technology.
+> An passionate contributor to open-source projects, constantly exploring new advancements in machine learning, deep learning and AI model development. I'm dedicated to sharing knowledge, building community-driven projects and expanding the horizons of technology.
 
 ---
 
@@ -57,15 +52,11 @@ I'm actively working on these PRs:
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000">
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>
-   
- 
-  <!-- Add more badges as relevant to your stack -->
+
 </p>
 
+###  Current Focus
 
-
-### 🌱 Current Focus
-I'm currently focused on:
 - Improving the quality and performance of AI and ML models.
 - Contributing to open-source repositories that support the ML and NLP ecosystem.
 - Engaging with the community to share insights and drive innovation.
