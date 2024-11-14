@@ -7,7 +7,7 @@
 ---
 
 ### 📬 Connect with Me
-- **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models insights to the Hugging Face community.
+- **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models to the Hugging Face community.
 - **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Let's Connect and follow for updates on my journey!
 
 ---
@@ -16,21 +16,30 @@
 
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
+
 - **PR #1 & PR #2** - [Diffuser Notebooks for Community Scripts #1](https://github.com/huggingface/diffusers/pull/9905)
   [Diffuser Notebooks for Community Scripts #2](https://github.com/huggingface/notebooks/pull/525)
-  - **Description**
+  
+  **Description**
   - Created 3 new Jupyter notebooks for community scripts in the HF diffusers Library.
 
-- **PR #3** - [Deprecate Support for Dolly,Nous-Hermes,Redpajama-Incite,Vicuna and H2O Danube ](https://github.com/Lightning-AI/litgpt/pull/1821)
-  - **Description**
-  - By request, removed support for 5 LLMs to declutter the litgpt Library.
-  
+- **PR #3** - [Deprecate Support for Dolly,Nous-Hermes,Redpajama-Incite,Vicuna and H2O Danube Models](https://github.com/Lightning-AI/litgpt/pull/1821)
+
+   **Description**
+  -Upon Request, removed support for 5 LLMs to declutter the litgpt Library.
+
+  -**PR #4** - [Addition of Preference Alignment and Math Datasets](https://github.com/mlabonne/llm-datasets/pull/6)
+
+   **Description**
+  -Added 4 New Datasets to the llm-datasets Repository.
 
 
 #### 🛠️ Ongoing Pull Requests
 I'm actively working on these PRs:
-- **Project Name #3** - [Python Autodoc using Liger](https://github.com/linkedin/Liger-Kernel/pull/327)
-  - **Description** Creation of Python Autodoc for Liger Kernel Repository using Sphinx.
+
+- **PR #5** - [Python Autodoc using Liger](https://github.com/linkedin/Liger-Kernel/pull/327)
+
+   **Description** Creation of Python Autodoc for Liger Kernel Repository using Sphinx.
 
 
 
@@ -55,7 +64,7 @@ I'm actively working on these PRs:
 ### 🌱 Current Focus
 I'm currently focused on:
 - Improving the quality and performance of AI and ML models.
-- Contributing to open-source repositories that support the AI ecosystem.
+- Contributing to open-source repositories that support the ML and NLP ecosystem.
 - Engaging with the community to share insights and drive innovation.
 
 Feel free to reach out to collaborate, discuss ideas, or just say hello!
