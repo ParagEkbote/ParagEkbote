@@ -56,7 +56,7 @@ I'm actively working on these PRs:
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD43B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=orange" alt="Jupyter" />
+   <img src="https://img.shields.io/badge/Jupyter-FFD43B?style=for-the-badge&logo=python&logoColor=orange" alt="Jupyter" />
  
   <!-- Add more badges as relevant to your stack -->
 </p>
