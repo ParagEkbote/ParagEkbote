@@ -7,7 +7,7 @@
 
 ### 📬 Connect with Me
 - **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models to the Hugging Face community.
-- **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Let's Connect and follow for updates on my journey!
+- **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Connect and Follow for updates!
 
 ---
 
