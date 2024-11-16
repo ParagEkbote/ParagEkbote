@@ -15,23 +15,23 @@
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
 
-- **PR #1 & PR #2** -
+- **PR** -
 - [Diffuser Notebooks for Community Scripts #1](https://github.com/huggingface/diffusers/pull/9905)
 - [Diffuser Notebooks for Community Scripts #2](https://github.com/huggingface/notebooks/pull/525)
   
   **Description**
   - Created 3 new Jupyter notebooks for community scripts in the HF diffusers Library.
 
-- **PR #3** - [Deprecate Support for Dolly,Nous-Hermes,Redpajama-Incite,Vicuna and H2O Danube Models](https://github.com/Lightning-AI/litgpt/pull/1821)
+- **PR** - [Deprecate Support for Dolly,Nous-Hermes,Redpajama-Incite,Vicuna and H2O Danube Models](https://github.com/Lightning-AI/litgpt/pull/1821)
 
    **Description**
   - Upon Request, deprecated support for 5 LLMs to declutter the litgpt Library.
 
-- **PR #4** - [Addition of Preference Alignment and Math Datasets](https://github.com/mlabonne/llm-datasets/pull/6)
+- **PR** - [Addition of Preference Alignment and Math Datasets](https://github.com/mlabonne/llm-datasets/pull/6)
 
    **Description**
   - Added 4 New Datasets to the llm-datasets Repository.
-- **PR #5** - [Wuerstchen DreamBooth LoRA](https://github.com/huggingface/diffusers/pull/9935)
+- **PR** - [Wuerstchen DreamBooth LoRA](https://github.com/huggingface/diffusers/pull/9935)
   
   **Description**
   - Unblocked an old PR, and re-organized the required files.
@@ -40,7 +40,7 @@ Here are some of my recent contributions to open-source projects:
 #### 🛠️ Ongoing Pull Requests
 I'm actively working on these PRs:
 
-- **PR #6** - [Python Autodoc using Liger](https://github.com/linkedin/Liger-Kernel/pull/327)
+- **PR** - [Python Autodoc using Liger](https://github.com/linkedin/Liger-Kernel/pull/327)
 
    **Description**
   - Creation of Python Autodoc for Liger Kernel Repository using Sphinx.
