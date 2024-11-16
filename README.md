@@ -32,8 +32,9 @@ Here are some of my recent contributions to open-source projects:
    **Description**
   - Added 4 New Datasets to the llm-datasets Repository.
 - **PR #5** - [Wuerstchen DreamBooth LoRA](https://github.com/huggingface/diffusers/pull/9935)
+  
   **Description**
-- Unblocked an old PR, and re-organized the required files.
+  - Unblocked an old PR, and re-organized the required files.
 
 
 #### 🛠️ Ongoing Pull Requests
