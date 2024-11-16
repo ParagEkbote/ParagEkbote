@@ -15,8 +15,9 @@
 #### ✅ Merged Pull Requests
 Here are some of my recent contributions to open-source projects:
 
-- **PR #1 & PR #2** - [Diffuser Notebooks for Community Scripts #1](https://github.com/huggingface/diffusers/pull/9905)
-  [Diffuser Notebooks for Community Scripts #2](https://github.com/huggingface/notebooks/pull/525)
+- **PR #1 & PR #2** -
+- [Diffuser Notebooks for Community Scripts #1](https://github.com/huggingface/diffusers/pull/9905)
+- [Diffuser Notebooks for Community Scripts #2](https://github.com/huggingface/notebooks/pull/525)
   
   **Description**
   - Created 3 new Jupyter notebooks for community scripts in the HF diffusers Library.
