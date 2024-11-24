@@ -1,13 +1,13 @@
-# Welcome to My GitHub 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&pause=1000&color=2F6755&vCenter=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-source+Contributor.;Building+with+AI+to+Attain+New+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=1000&color=2F6755&vCenter=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.)](https://git.io/typing-svg)
 
 
----
+
 
 ### 📬 Connect with Me
-- **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models to the Hugging Face community.
 - **[LinkedIn](https://www.linkedin.com/in/parag-ekbote/)**: Connect and Follow for updates!
+- **[Hugging Face](https://huggingface.co/AINovice2005)**: Contributing innovative models to the Hugging Face community.
+
 
 ---
 
@@ -61,9 +61,9 @@ I'm actively working on these PRs:
 
 </p>
 
-### Work Experience
+## Work Experience
 
-AI Research Intern
+**AI Research Intern**
 
 ![greenpepper_consulting_india_private_limited_logo](https://github.com/user-attachments/assets/2103bc32-f548-45ae-972e-11aca1c681e9)
 
