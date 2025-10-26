@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=500&color=3AAFA9&vCenter=true&width=435&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=400&color=3AAFA9&vCenter=true&width=600&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.;Machine+Learning+Engineer+%26+Researcher.)](https://git.io/typing-svg)
 
 ## **To know more about me**, [please click here🌠](https://paragekbote.github.io/)
 
@@ -9,8 +8,3 @@
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/paragekbote)
 [![Replicate](https://img.shields.io/badge/Replicate-%23000000.svg?style=for-the-badge&logo=replicate&logoColor=white)](https://replicate.com/paragekbote)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23D47A00?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://paragekbote.github.io/)
-
-
-
-
-
