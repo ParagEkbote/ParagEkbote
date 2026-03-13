@@ -1,6 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=400&color=3AAFA9&vCenter=true&width=600&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.;Machine+Learning+Engineer+%26+Researcher.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=400&color=3AAFA9&vCenter=true&width=600&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.;Machine+Learning+Engineer.)](https://git.io/typing-svg)
 
-## **To know more about me**, [please click here🌠](https://paragekbote.github.io/)
+Machine Learning Engineer working on transformer-based models, systems and ML infra.
+
+I actively contribute to open-source machine learning projects: [contributions.md](https://github.com/ParagEkbote/ParagEkbote.github.io/blob/main/contributions.md)
+
+Focus areas:
+- Large Language Models and the Hugging Face ecosystem.
+- Parameter-efficient fine-tuning (LoRA / PEFT).
+- LLM inference benchmarking and optimization.
+- Reproducible ML experimentation and open-source tooling.
+
+
+## Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2NmGuDsAAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23150020.dypsst@dpu.edu.in)
@@ -8,3 +19,8 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AINovice2005)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/paragekbote)
 [![Replicate](https://img.shields.io/badge/Replicate-%23000000.svg?style=for-the-badge&logo=replicate&logoColor=white)](https://replicate.com/paragekbote)
+
+
+## Portfolio
+
+To know more about my work and projects:  🌠 **https://paragekbote.github.io/**
