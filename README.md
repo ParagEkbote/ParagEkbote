@@ -13,12 +13,12 @@ Focus areas:
 
 ## Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2NmGuDsAAAAJ)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23150020.dypsst@dpu.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-ekbote/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AINovice2005)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/paragekbote)
-[![Replicate](https://img.shields.io/badge/Replicate-%23000000.svg?style=for-the-badge&logo=replicate&logoColor=white)](https://replicate.com/paragekbote)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=2NmGuDsAAAAJ)
+- [Gmail](mailto:23150020.dypsst@dpu.edu.in)
+- [LinkedIn](https://www.linkedin.com/in/parag-ekbote/)
+- [Hugging Face](https://huggingface.co/AINovice2005)
+- [Docker](https://hub.docker.com/u/paragekbote)
+- [Replicate](https://replicate.com/paragekbote)
 
 
 ## Portfolio
