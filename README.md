@@ -14,6 +14,7 @@ Focus areas:
 ## Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=2NmGuDsAAAAJ)
+- [Medium](https://medium.com/@paragekbote23)
 - [Gmail](mailto:23150020.dypsst@dpu.edu.in)
 - [LinkedIn](https://www.linkedin.com/in/parag-ekbote/)
 - [Hugging Face](https://huggingface.co/AINovice2005)
