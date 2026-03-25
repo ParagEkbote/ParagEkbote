@@ -19,7 +19,7 @@ Working on **transformer-based models**, **systems** and **ML infra**.
  
 I actively contribute to machine learning projects across the ecosystem.
  
-### [View Contributions](https://github.com/ParagEkbote/ParagEkbote/blob/main/contributions.md)
+### [View Contributions](https://github.com/ParagEkbote/ParagEkbote.github.io/blob/main/contributions.md)
  
 ## Find Me Online
 
