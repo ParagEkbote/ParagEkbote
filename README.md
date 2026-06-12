@@ -17,13 +17,11 @@ Working on **transformer-based models**, **systems** and **ML infra**.
  
 ## Open Source Contributions
  
-I actively contribute to machine learning projects across the ecosystem.
+- 110+ merged PRs across 20 repositories, with combined repository stars of 400K+ ⭐
  
-### [View Contribution Changelog](https://github.com/ParagEkbote/ParagEkbote.github.io/blob/main/contributions.md)
+### [View Contribution Changelog](https://github.com/ParagEkbote/ParagEkbote.github.io/blob/main/contributions.md) 👈
  
-## Find Me Online
-
-- ### [Medium](https://medium.com/@paragekbote23) 
+## Find Me Online 👇
 
 - ### [LinkedIn](https://www.linkedin.com/in/parag-ekbote/)
 
@@ -35,11 +33,7 @@ I actively contribute to machine learning projects across the ecosystem.
 
 - ### [ Replicate](https://replicate.com/paragekbote)
 
-- ### [ Email](mailto:23150020.dypsst@dpu.edu.in)
+- ### [Medium](https://medium.com/@paragekbote23) 
  
-## My Work
- 
-To know more about my work:
- 
-### [ Portfolio](https://paragekbote.github.io/)
+- ### [ Website](https://paragekbote.github.io/)
  
