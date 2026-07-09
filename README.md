@@ -19,7 +19,7 @@ Working on **transformer-based models**, **systems** and **ML infra**.
  
 - 110+ merged PRs across 20 repositories, with combined repository stars of 400K+ ⭐
  
-### [View Contribution Changelog](https://github.com/ParagEkbote/ParagEkbote.github.io/blob/main/contributions.md) 👈
+### [View Contribution Changelog](https://github.com/ParagEkbote/contributions.md/blob/main/contributions.md) 👈
  
 ## Find Me Online 👇
 
