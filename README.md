@@ -1,39 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&pause=400&color=3AAFA9&vCenter=true&width=600&lines=Hello+There!+I'm+Parag+Ekbote.;Open-Source+Contributor.;Machine+Learning+Engineer.)](https://git.io/typing-svg)
 
-# Machine Learning Engineer
- 
-Working on **transformer-based models**, **systems** and **ML infra**.
- 
----
- 
-## Core Focus Areas
- 
-- Large Language Models and the Hugging Face ecosystem.
-- Parameter-efficient fine-tuning (LoRA / PEFT).
-- LLM inference benchmarking and optimization.
-- Reproducible ML experimentation and open-source tooling. 
- 
----
- 
-## Open Source Contributions
- 
-- 110+ merged PRs across 20 repositories, with combined repository stars of 400K+ ⭐
- 
-### [View Contribution Changelog](https://github.com/ParagEkbote/contributions.md/blob/main/contributions.md) 👈
  
 ## Find Me Online 👇
 
+- ### [Website](https://paragekbote.github.io/)
+
+- ### [Contribution Changelog](https://github.com/ParagEkbote/contributions.md/blob/main/contributions.md) 
+
 - ### [LinkedIn](https://www.linkedin.com/in/parag-ekbote/)
 
-- ### [ Hugging Face](https://huggingface.co/AINovice2005)
+- ### [Hugging Face](https://huggingface.co/AINovice2005)
 
 - ### [Google Scholar](https://scholar.google.com/citations?hl=en&user=2NmGuDsAAAAJ)
 
-- ### [ Docker Hub](https://hub.docker.com/u/paragekbote)
+- ### [Docker Hub](https://hub.docker.com/u/paragekbote)
 
-- ### [ Replicate](https://replicate.com/paragekbote)
+- ### [Replicate](https://replicate.com/paragekbote)
 
 - ### [Medium](https://medium.com/@paragekbote23) 
- 
-- ### [ Website](https://paragekbote.github.io/)
  
